@@ -29,8 +29,6 @@ function HeaderDiv(){
         <p>I interned at a tech company in the UK called <b className="boldened_content">First Stack Ltd</b> for six months, where I was trained in the execution of web development projects.<br/>The knowledge and experience I gained there were invaluable in the development of my QR attendance system project.</p>
         <h4 className="content_headers">EDUCATION</h4>
         <p>I am a recent graduate of <b className="boldened_content">Babcock University's School of Computing Sciences</b>. I enrolled in January 2021 and graduated in May 2024. The school taught me a lot about managing projects and gathering requirements. However, learning the programming languages was largely a personal effort.</p>
-         <h4 className="content_headers">PROJECTS</h4>
-        <p>Some projects Ive done in my spare time</p>
         </div>
         <div id="rectangle1"></div>
         <div id="rectangle2"></div>
